@@ -5,10 +5,9 @@
 // }
 //     console.log('something new is cooking');
 
-let num =1;
+const num =0;
 while (num<5){
-    console.log('looooping');
-    // num = num + 1;
-    //    num +=1
-    num++;
+    console.log('looooping',num);
+    num = num + 1;
+   
 }
